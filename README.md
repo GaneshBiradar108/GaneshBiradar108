@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mechanical engineering
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me linked in
-- 😄 Pronouns: Male
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very social but awkward at first meeting.
 
 <!---
